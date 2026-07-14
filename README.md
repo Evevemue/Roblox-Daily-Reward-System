@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Daily Reward System
 
 > **AI review:**  
