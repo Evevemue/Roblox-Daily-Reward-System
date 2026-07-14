@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Daily Reward System
 
 > **AI review:**  
@@ -50,3 +51,6 @@ end
 - Reward is claimed automatically on join.
 - Fixed 24-hour cooldown.
 - No streak system or countdown UI.
+=======
+# Roblox-Combat-System
+>>>>>>> ec49ad53874114b0b237d7915f88f1a6680498b7
